@@ -1,6 +1,6 @@
 # Adaptive Crossover-based Marine Predators Algorithm (AC-MPA)
 
-This is the original implementation of the **Adaptive Crossover-based Marine Predators Algorithm (AC-MPA)**. The algorithm was developed by **Assist. Prof. Dr. Shaymah Akram Yasear**.
+This is the original implementation of the **Adaptive Crossover-based Marine Predators Algorithm (AC-MPA)**. The algorithm is archived in Zenodo with DOI: https://doi.org/10.5281/zenodo.1234567 
 
 ## 🔍 Overview
 
