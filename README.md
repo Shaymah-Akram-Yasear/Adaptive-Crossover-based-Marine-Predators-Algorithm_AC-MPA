@@ -1,6 +1,7 @@
 # Adaptive Crossover-based Marine Predators Algorithm (AC-MPA)
 
-This is the original implementation of the **Adaptive Crossover-based Marine Predators Algorithm (AC-MPA)**. The algorithm is archived in Zenodo with DOI: https://doi.org/10.5281/zenodo.1234567 
+This is the original implementation of the **Adaptive Crossover-based Marine Predators Algorithm (AC-MPA)**. 
+> The algorithm is archived in Zenodo with [DOI: 10.5281/zenodo.15359099](https://doi.org/10.5281/zenodo.15359099)
 
 ## 🔍 Overview
 
